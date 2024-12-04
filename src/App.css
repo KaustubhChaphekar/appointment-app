@@ -1,0 +1,8 @@
+*{
+    background: linear-gradient(to right, #9b4dca, #ec4899); /* Gradient from purple to pink */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial, sans-serif;
+}
